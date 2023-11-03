@@ -1,7 +1,7 @@
 package $package;
 
 /**
- * Hello world!ss
+ * Hello world!ssvs
  *
  */
 public class App 
